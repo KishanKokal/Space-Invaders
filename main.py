@@ -181,16 +181,4 @@ while running:
     show_score(textX, textY)
     pygame.display.update()
 
-pygame.quit()
-        
-
-    
-    
-            
-    
-        
-            
-
-    
-    
-    
+pygame.quit()   
